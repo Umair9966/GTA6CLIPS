@@ -1,0 +1,121 @@
+{
+  "id": "08",
+  "title": "Taking a Porsche Through GTA 6 Vice City Traffic 🏎️",
+  "rights_status": "FLAGGED",
+  "rights_blocking": [],
+  "rights_flags": [
+    "Monetization rights unconfirmed: Rockstar's video policy grants permission for non-commercial use; ad-revenue use is not explicitly covered. Get written permission from Take-Two (copyright@take2games.com) or publish without monetization.",
+    "Third-party audio present (none detected (in-game dialogue/SFX only; no song lyrics found by transcription)): licensed radio music can trigger Content ID claims. Record with in-game radio off or mute those sections."
+  ],
+  "checks": [
+    {
+      "check": "resolution",
+      "ok": true,
+      "level": "error",
+      "detail": "1080x1920"
+    },
+    {
+      "check": "aspect_ratio",
+      "ok": true,
+      "level": "error",
+      "detail": "9:16, SAR 1:1"
+    },
+    {
+      "check": "frame_rate",
+      "ok": true,
+      "level": "error",
+      "detail": "30.00 fps"
+    },
+    {
+      "check": "codec",
+      "ok": true,
+      "level": "error",
+      "detail": "h264 yuv420p"
+    },
+    {
+      "check": "duration",
+      "ok": true,
+      "level": "error",
+      "detail": "161.27s (target 120-179s)"
+    },
+    {
+      "check": "bitrate",
+      "ok": true,
+      "level": "warning",
+      "detail": "12.3 Mbps"
+    },
+    {
+      "check": "audio_stream",
+      "ok": true,
+      "level": "error",
+      "detail": "aac 48000 Hz"
+    },
+    {
+      "check": "loudness",
+      "ok": true,
+      "level": "error",
+      "detail": "-15.8 LUFS integrated (target -14±2)"
+    },
+    {
+      "check": "true_peak",
+      "ok": true,
+      "level": "error",
+      "detail": "-1.7 dBTP"
+    },
+    {
+      "check": "black_frames",
+      "ok": true,
+      "level": "error",
+      "detail": "0 black segment(s) []"
+    },
+    {
+      "check": "decode_errors",
+      "ok": true,
+      "level": "error",
+      "detail": "0 decoder messages []"
+    },
+    {
+      "check": "watermark",
+      "ok": true,
+      "level": "error",
+      "detail": "100% of watermark text pixels detected at expected position"
+    },
+    {
+      "check": "subtitle_timing",
+      "ok": true,
+      "level": "error",
+      "detail": "0 caption events, no overlaps, all in range"
+    },
+    {
+      "check": "subtitle_sync_source",
+      "ok": true,
+      "level": "warning",
+      "detail": "timing source: none (on-screen story captions only, no speech subtitles)"
+    },
+    {
+      "check": "thumbnail",
+      "ok": true,
+      "level": "error",
+      "detail": "thumbnail.jpg"
+    },
+    {
+      "check": "metadata.txt",
+      "ok": true,
+      "level": "error",
+      "detail": "metadata.txt"
+    },
+    {
+      "check": "source_and_license_notes.txt",
+      "ok": true,
+      "level": "error",
+      "detail": "source_and_license_notes.txt"
+    }
+  ],
+  "tech_status": "PASS",
+  "duration": 161.27,
+  "loudness": {
+    "lufs": -15.8,
+    "true_peak": -1.7
+  },
+  "overall": "FLAGGED_NOT_CLEARED_FOR_MONETIZED_PUBLICATION"
+}

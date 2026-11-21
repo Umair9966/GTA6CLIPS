@@ -1,0 +1,48 @@
+CLIP 08  |  Group A  |  Style: action
+Concept: Taking a Porsche Through GTA 6 Vice City Traffic 🏎️
+Rights status: FLAGGED   |   QA: FLAGGED_NOT_CLEARED_FOR_MONETIZED_PUBLICATION
+NOT PUBLISHED. Nothing in this workflow uploads to YouTube. Publish manually after your review.
+
+TITLE
+  Taking a Porsche Through GTA 6 Vice City Traffic 🏎️
+
+DESCRIPTION
+  Taking a Porsche Through GTA 6 Vice City Traffic 🏎️
+
+Gameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:
+- "GTA 6 Gameplay - No Spoilers" by How to Everything: https://www.youtube.com/watch?v=Q8sWvko-g8E (licensed CC BY)
+
+Edited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.
+
+HASHTAGS
+  #GTA6 #GTAVI #Shorts #Porsche #ViceCity #Driving
+
+OPENING HOOK (first 1-2 s)
+  Vice City TRAFFIC is crazy
+
+SUGGESTED THUMBNAIL / COVER FRAME
+  Text: VICE CITY / [TRAFFIC]
+  Idea: Frame from the action peak with bold two-line text.
+  (Shorts covers are picked from a video frame in the YouTube app; thumbnail.jpg is the branded reference.)
+
+SUGGESTED PINNED COMMENT
+  What car are you driving first in Vice City? 🏎️
+
+EDITING PLAN
+  - 0-2.2s cold open: flash-forward of the peak moment under the hook text
+  - Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)
+  - Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms
+  - Peak moment: freeze frame + 'CLOSE ONE' label, then 0.5x replay with highlight border
+  - Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts
+  - Ends on the outro sting for a loop back to the cold open
+
+SOURCE
+  How to Everything (Q8sWvko-g8E)
+  Stream range: -   Link: -
+
+FACTS & EVIDENCE
+  (not a fact video)
+
+WHY IT IS NOT CLEARED YET
+  - Monetization rights unconfirmed: Rockstar's video policy grants permission for non-commercial use; ad-revenue use is not explicitly covered. Get written permission from Take-Two (copyright@take2games.com) or publish without monetization.
+  - Third-party audio present (none detected (in-game dialogue/SFX only; no song lyrics found by transcription)): licensed radio music can trigger Content ID claims. Record with in-game radio off or mute those sections.

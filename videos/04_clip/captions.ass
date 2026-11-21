@@ -1,0 +1,30 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Poppins,80,&H00FAF7F5,&H000AD6FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,2,5,60,60,0,1
+Style: Hook,Anton,108,&H00FAF7F5,&H000AD6FF,&H001A0F0B,&H64000000,0,0,0,0,100,100,1,0,1,9,3,8,60,60,0,1
+Style: Label,Anton,84,&H000AD6FF,&H00FAF7F5,&H001A0F0B,&H64000000,0,0,0,0,100,100,2,0,1,7,2,5,60,60,0,1
+Style: Card,Anton,74,&H00FAF7F5,&H000AD6FF,&H18632EFF,&H18632EFF,0,0,0,0,100,100,1,0,3,22,0,5,90,90,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:02.40,Hook,,0,0,0,,{\pos(540,300)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}Can you steal a {\c&H000AD6FF}TANK{\r} in GTA 6?
+Dialogue: 2,0:00:02.15,0:00:06.00,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}The plan: sneak in by\Nboat
+Dialogue: 2,0:00:27.96,0:00:31.81,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Quietly... onto the\Nshore
+Dialogue: 2,0:00:36.83,0:00:40.68,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Then a swim
+Dialogue: 2,0:00:48.12,0:00:51.97,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Up the ladder
+Dialogue: 2,0:00:59.41,0:01:03.26,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Wait... is that a\Ntank?
+Dialogue: 2,0:01:11.30,0:01:15.15,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}IT'S A TANK.
+Dialogue: 2,0:01:25.82,0:01:29.67,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}And it has a cannon
+Dialogue: 2,0:01:50.65,0:01:54.50,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}The military is NOT\Nhappy
+Dialogue: 2,0:02:08.39,0:02:12.24,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Next stop: the\Nairfield
+Dialogue: 2,0:02:27.55,0:02:31.40,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}How it ended...
+Dialogue: 2,0:01:41.87,0:01:42.72,Label,,0,0,0,,{\pos(540,1180)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}BOOM
+Dialogue: 2,0:01:42.57,0:01:44.12,Label,,0,0,0,,{\pos(540,1180)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}REPLAY x0.5
+Dialogue: 2,0:02:27.47,0:02:29.02,Label,,0,0,0,,{\pos(540,1180)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}WASTED

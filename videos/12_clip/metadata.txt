@@ -1,0 +1,48 @@
+CLIP 12  |  Group B  |  Style: fact
+Concept: Driving Across the ENTIRE GTA 6 Map (25 Minutes in 2:30) 🗺️
+Rights status: FLAGGED   |   QA: FLAGGED_NOT_CLEARED_FOR_MONETIZED_PUBLICATION
+NOT PUBLISHED. Nothing in this workflow uploads to YouTube. Publish manually after your review.
+
+TITLE
+  Driving Across the ENTIRE GTA 6 Map (25 Minutes in 2:30) 🗺️
+
+DESCRIPTION
+  Driving Across the ENTIRE GTA 6 Map (25 Minutes in 2:30) 🗺️
+
+Gameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:
+- "GTA 6 - Free-Roam Driving Across The Map (No Commentary Gameplay)" by dannyavelas: https://www.youtube.com/watch?v=Wwe1npYjNpw (licensed CC BY)
+
+Edited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.
+
+HASHTAGS
+  #GTA6 #GTAVI #Shorts #GTA6Map #Leonida #Driving
+
+OPENING HOOK (first 1-2 s)
+  Driving the WHOLE MAP
+
+SUGGESTED THUMBNAIL / COVER FRAME
+  Text: THE WHOLE / [MAP]
+  Idea: Frame from the action peak with bold two-line text.
+  (Shorts covers are picked from a video frame in the YouTube app; thumbnail.jpg is the branded reference.)
+
+SUGGESTED PINNED COMMENT
+  How long do you think the full map drive takes you? 🗺️
+
+EDITING PLAN
+  - 0-2.2s cold open: flash-forward of the peak moment under the hook text
+  - Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)
+  - Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms
+  - Peak moment: freeze frame + 'OFF-ROAD' label, then 0.5x replay with highlight border
+  - Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts
+  - Ends on the outro sting for a loop back to the cold open
+
+SOURCE
+  dannyavelas (Wwe1npYjNpw)
+  Stream range: -   Link: -
+
+FACTS & EVIDENCE
+  (not a fact video)
+
+WHY IT IS NOT CLEARED YET
+  - Monetization rights unconfirmed: Rockstar's video policy grants permission for non-commercial use; ad-revenue use is not explicitly covered. Get written permission from Take-Two (copyright@take2games.com) or publish without monetization.
+  - Third-party audio present (none detected (in-game dialogue/SFX only; no song lyrics found by transcription)): licensed radio music can trigger Content ID claims. Record with in-game radio off or mute those sections.

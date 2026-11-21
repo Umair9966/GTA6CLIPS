@@ -1,0 +1,400 @@
+{
+  "id": "12",
+  "group": "B",
+  "style": "fact",
+  "concept": "Driving Across the ENTIRE GTA 6 Map (25 Minutes in 2:30) 🗺️",
+  "title": "Driving Across the ENTIRE GTA 6 Map (25 Minutes in 2:30) 🗺️",
+  "description": "Driving Across the ENTIRE GTA 6 Map (25 Minutes in 2:30) 🗺️\n\nGameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:\n- \"GTA 6 - Free-Roam Driving Across The Map (No Commentary Gameplay)\" by dannyavelas: https://www.youtube.com/watch?v=Wwe1npYjNpw (licensed CC BY)\n\nEdited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.",
+  "hashtags": [
+    "#GTA6",
+    "#GTAVI",
+    "#Shorts",
+    "#GTA6Map",
+    "#Leonida",
+    "#Driving"
+  ],
+  "hook": "Driving the WHOLE MAP",
+  "thumbnail": {
+    "text": "THE WHOLE|[MAP]",
+    "time": 80.15,
+    "idea": "Frame from the action peak with bold two-line text."
+  },
+  "pinned_comment": "How long do you think the full map drive takes you? 🗺️",
+  "editing_plan": [
+    "0-2.2s cold open: flash-forward of the peak moment under the hook text",
+    "Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)",
+    "Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms",
+    "Peak moment: freeze frame + 'OFF-ROAD' label, then 0.5x replay with highlight border",
+    "Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts",
+    "Ends on the outro sting for a loop back to the cold open"
+  ],
+  "ranking": {
+    "score": 8,
+    "rationale": "Hyperlapse across the whole map; satisfying, answers 'how big is it'"
+  },
+  "source": {
+    "path": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+    "owner": "dannyavelas (Wwe1npYjNpw)",
+    "captured_by": "dannyavelas",
+    "capture_date": "20261119",
+    "platform": "YouTube uploads licensed CC BY (Creative Commons Attribution)",
+    "game_version": "GTA VI retail (released Nov 19, 2026)",
+    "rights_basis": "Creative Commons Attribution licence set by each uploader (verified via YouTube metadata); attribution in description",
+    "monetization_permission": "unconfirmed",
+    "leaked_or_prerelease": false,
+    "isolated_cutscene": false,
+    "story_spoilers": false,
+    "third_party_creator_footage": true,
+    "third_party_permission_doc": "CC BY licence on each source video: https://www.youtube.com/watch?v=Wwe1npYjNpw",
+    "third_party_audio": "none detected (in-game dialogue/SFX only; no song lyrics found by transcription)",
+    "voice": "in-game character dialogue only; source narrator muted",
+    "cc_credits": [
+      {
+        "video_id": "Wwe1npYjNpw",
+        "channel": "dannyavelas",
+        "title": "GTA 6 - Free-Roam Driving Across The Map (No Commentary Gameplay)",
+        "url": "https://www.youtube.com/watch?v=Wwe1npYjNpw",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261119",
+        "channel_url": "https://www.youtube.com/channel/UCjw8S3ATWlWafD-2UvO8t7w"
+      }
+    ]
+  },
+  "framing": "blur",
+  "auto_sfx": true,
+  "shots": [
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 658.8,
+      "out": 661.0,
+      "speed": 1.0,
+      "label": "",
+      "fx": [
+        "flash"
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "audio": "mute"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 6.72,
+      "out": 53.28,
+      "speed": 6.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 70.09,
+      "out": 139.91,
+      "speed": 6.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 163.45,
+      "out": 256.55,
+      "speed": 8.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 283.45,
+      "out": 376.55,
+      "speed": 8.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 402.33,
+      "out": 487.67,
+      "speed": 8.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 513.45,
+      "out": 606.55,
+      "speed": 8.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 659.0,
+      "out": 767.62,
+      "speed": 8.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "freeze",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "at": 660.0,
+      "dur": 0.9,
+      "label": "OFF-ROAD"
+    },
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 658.0,
+      "out": 662.0,
+      "speed": 0.5,
+      "transition": "fade",
+      "fx": [
+        "highlight",
+        "flash"
+      ],
+      "audio": "mute"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 802.33,
+      "out": 887.67,
+      "speed": 8.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 917.93,
+      "out": 1042.07,
+      "speed": 8.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 1117.93,
+      "out": 1242.07,
+      "speed": 8.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 1277.93,
+      "out": 1402.07,
+      "speed": 8.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Wwe1npYjNpw.mp4",
+      "in": 1432.33,
+      "out": 1517.67,
+      "speed": 6.0,
+      "zoom": [
+        1.12,
+        1.12
+      ],
+      "focus": [
+        0.5,
+        0.35
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    }
+  ],
+  "texts": [
+    {
+      "t0": 0.0,
+      "t1": 2.4,
+      "style": "hook",
+      "text": "Driving the [WHOLE MAP]"
+    },
+    {
+      "t0": 2.15,
+      "t1": 6.0,
+      "style": "card",
+      "text": "0:00 Start: the\ncountryside"
+    },
+    {
+      "t0": 9.91,
+      "t1": 13.76,
+      "style": "card",
+      "text": "Onto the highway"
+    },
+    {
+      "t0": 21.55,
+      "t1": 25.4,
+      "style": "card",
+      "text": "Toward the city\nskyline"
+    },
+    {
+      "t0": 33.18,
+      "t1": 37.03,
+      "style": "card",
+      "text": "Through the city"
+    },
+    {
+      "t0": 44.82,
+      "t1": 48.67,
+      "style": "card",
+      "text": "Gas station pit stop"
+    },
+    {
+      "t0": 55.29,
+      "t1": 59.14,
+      "style": "card",
+      "text": "Back roads"
+    },
+    {
+      "t0": 66.93,
+      "t1": 70.78,
+      "style": "card",
+      "text": "Off-road hills"
+    },
+    {
+      "t0": 89.21,
+      "t1": 93.06,
+      "style": "card",
+      "text": "Mountain roads"
+    },
+    {
+      "t0": 99.87,
+      "t1": 103.72,
+      "style": "card",
+      "text": "Back on the interstate"
+    },
+    {
+      "t0": 115.19,
+      "t1": 119.04,
+      "style": "card",
+      "text": "Small towns"
+    },
+    {
+      "t0": 130.71,
+      "t1": 134.56,
+      "style": "card",
+      "text": "Back to Vice City"
+    },
+    {
+      "t0": 146.23,
+      "t1": 150.08,
+      "style": "card",
+      "text": "Destination: the beach"
+    }
+  ],
+  "captions": [],
+  "sfx": [],
+  "music": {
+    "path": "D:/GTA6_SHORTS/channel_branding/music/bed_12.wav",
+    "license": "Original, synthesized in code (make_video.synth_music)",
+    "gain": 0.3
+  },
+  "facts": [],
+  "words": [],
+  "caption_y": 1640,
+  "label_y": 1180,
+  "glitch_reproduced_in_footage": false,
+  "card_y": 1650
+}

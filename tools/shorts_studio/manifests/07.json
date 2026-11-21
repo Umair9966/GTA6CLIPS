@@ -1,0 +1,363 @@
+{
+  "id": "07",
+  "group": "A",
+  "style": "action",
+  "concept": "Living Like a Millionaire in GTA 6 Vice City 💰",
+  "title": "Living Like a Millionaire in GTA 6 Vice City 💰",
+  "description": "Living Like a Millionaire in GTA 6 Vice City 💰\n\nGameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:\n- \"GTA 6 - What Happens If You Go To The Vercetti Estate Early\" by LunarGaming: https://www.youtube.com/watch?v=TPF8W1_mk7I (licensed CC BY)\n- \"GTA 6 Gameplay - No Spoilers\" by How to Everything: https://www.youtube.com/watch?v=Q8sWvko-g8E (licensed CC BY)\n\nEdited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.",
+  "hashtags": [
+    "#GTA6",
+    "#GTAVI",
+    "#Shorts",
+    "#ViceCity",
+    "#Gaming",
+    "#Mansion"
+  ],
+  "hook": "Rich life in VICE CITY",
+  "thumbnail": {
+    "text": "MILLIONAIRE|[LIFE]",
+    "time": 56.1,
+    "idea": "Frame from the action peak with bold two-line text."
+  },
+  "pinned_comment": "Leopard car or white Porsche? 🐆",
+  "editing_plan": [
+    "0-2.2s cold open: flash-forward of the peak moment under the hook text",
+    "Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)",
+    "Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms",
+    "Peak moment: freeze frame + 'LEOPARD PRINT?!' label, then 0.5x replay with highlight border",
+    "Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts",
+    "Ends on the outro sting for a loop back to the cold open"
+  ],
+  "ranking": {
+    "score": 7,
+    "rationale": "Aspirational rich-life tour; leopard-print car is a strong thumbnail"
+  },
+  "source": {
+    "path": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+    "owner": "LunarGaming (TPF8W1_mk7I); How to Everything (Q8sWvko-g8E)",
+    "captured_by": "How to Everything, LunarGaming",
+    "capture_date": "20261118",
+    "platform": "YouTube uploads licensed CC BY (Creative Commons Attribution)",
+    "game_version": "GTA VI retail (released Nov 19, 2026)",
+    "rights_basis": "Creative Commons Attribution licence set by each uploader (verified via YouTube metadata); attribution in description",
+    "monetization_permission": "unconfirmed",
+    "leaked_or_prerelease": false,
+    "isolated_cutscene": false,
+    "story_spoilers": false,
+    "third_party_creator_footage": true,
+    "third_party_permission_doc": "CC BY licence on each source video: https://www.youtube.com/watch?v=TPF8W1_mk7I, https://www.youtube.com/watch?v=Q8sWvko-g8E",
+    "third_party_audio": "none detected (in-game dialogue/SFX only; no song lyrics found by transcription)",
+    "voice": "in-game character dialogue only",
+    "cc_credits": [
+      {
+        "video_id": "TPF8W1_mk7I",
+        "channel": "LunarGaming",
+        "title": "GTA 6 - What Happens If You Go To The Vercetti Estate Early",
+        "url": "https://www.youtube.com/watch?v=TPF8W1_mk7I",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCmF3ZcCBFUD-mcwg-r3SMyA"
+      },
+      {
+        "video_id": "Q8sWvko-g8E",
+        "channel": "How to Everything",
+        "title": "GTA 6 Gameplay - No Spoilers",
+        "url": "https://www.youtube.com/watch?v=Q8sWvko-g8E",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCCMZ64wccR-qFxsSG1koAeQ"
+      }
+    ]
+  },
+  "framing": "blur",
+  "auto_sfx": true,
+  "shots": [
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+      "in": 39.8,
+      "out": 42.0,
+      "speed": 1.0,
+      "label": "",
+      "fx": [
+        "flash"
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+      "in": 6.01,
+      "out": 19.99,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+      "in": 23.34,
+      "out": 32.66,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+      "in": 35.78,
+      "out": 48.22,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "freeze",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+      "at": 41.0,
+      "dur": 0.9,
+      "label": "LEOPARD PRINT?!"
+    },
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+      "in": 39.0,
+      "out": 43.0,
+      "speed": 0.5,
+      "transition": "fade",
+      "fx": [
+        "highlight",
+        "flash"
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+      "in": 51.78,
+      "out": 64.22,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+      "in": 68.01,
+      "out": 81.99,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/TPF8W1_mk7I.mp4",
+      "in": 86.12,
+      "out": 100.88,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 162.01,
+      "out": 175.99,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 180.45,
+      "out": 197.55,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 233.12,
+      "out": 254.88,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 302.9,
+      "out": 323.1,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    }
+  ],
+  "texts": [
+    {
+      "t0": 0.0,
+      "t1": 2.4,
+      "style": "hook",
+      "text": "Rich life in [VICE CITY]"
+    },
+    {
+      "t0": 2.15,
+      "t1": 6.0,
+      "style": "card",
+      "text": "Heading to the rich\nside of town"
+    },
+    {
+      "t0": 16.14,
+      "t1": 19.99,
+      "style": "card",
+      "text": "Gates open..."
+    },
+    {
+      "t0": 25.47,
+      "t1": 29.32,
+      "style": "card",
+      "text": "Whose car is THIS?"
+    },
+    {
+      "t0": 46.6,
+      "t1": 50.45,
+      "style": "card",
+      "text": "The mansion grounds"
+    },
+    {
+      "t0": 59.04,
+      "t1": 62.89,
+      "style": "card",
+      "text": "Garden, fountain, sea\nview"
+    },
+    {
+      "t0": 72.83,
+      "t1": 76.68,
+      "style": "card",
+      "text": "And the pool"
+    },
+    {
+      "t0": 87.59,
+      "t1": 91.44,
+      "style": "card",
+      "text": "Now we need a ride"
+    },
+    {
+      "t0": 101.58,
+      "t1": 105.43,
+      "style": "card",
+      "text": "White Porsche.\nPerfect."
+    },
+    {
+      "t0": 118.68,
+      "t1": 122.53,
+      "style": "card",
+      "text": "Cruising Vice City"
+    },
+    {
+      "t0": 140.24,
+      "t1": 144.09,
+      "style": "card",
+      "text": "Living the life"
+    }
+  ],
+  "captions": [],
+  "sfx": [],
+  "music": {
+    "path": "D:/GTA6_SHORTS/channel_branding/music/bed_07.wav",
+    "license": "Original, synthesized in code (make_video.synth_music)",
+    "gain": 0.13
+  },
+  "caption_y": 1640,
+  "label_y": 1180,
+  "words": [],
+  "facts": [],
+  "glitch_reproduced_in_footage": false,
+  "card_y": 1650
+}

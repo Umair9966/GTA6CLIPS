@@ -1,0 +1,377 @@
+{
+  "id": "05",
+  "group": "A",
+  "style": "action",
+  "concept": "Sneaking Onto the GTA 6 Cruise Ship… Then Stealing the Helicopter 🚁",
+  "title": "Sneaking Onto the GTA 6 Cruise Ship… Then Stealing the Helicopter 🚁",
+  "description": "Sneaking Onto the GTA 6 Cruise Ship… Then Stealing the Helicopter 🚁\n\nGameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:\n- \"GTA 6 - What Happens If You Go On The Cruise Ship\" by LunarGaming: https://www.youtube.com/watch?v=OnWC__OxyTk (licensed CC BY)\n\nEdited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.",
+  "hashtags": [
+    "#GTA6",
+    "#GTAVI",
+    "#Shorts",
+    "#Gaming",
+    "#CruiseShip",
+    "#Helicopter"
+  ],
+  "hook": "What's on the CRUISE SHIP?",
+  "thumbnail": {
+    "text": "CRUISE SHIP|[HEIST]",
+    "time": 64.12,
+    "idea": "Frame from the action peak with bold two-line text."
+  },
+  "pinned_comment": "Would you rather live on the ship or steal the heli? 🚢",
+  "editing_plan": [
+    "0-2.2s cold open: flash-forward of the peak moment under the hook text",
+    "Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)",
+    "Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms",
+    "Peak moment: freeze frame + 'FREE HELI?' label, then 0.5x replay with highlight border",
+    "Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts",
+    "Ends on the outro sting for a loop back to the cold open"
+  ],
+  "ranking": {
+    "score": 9,
+    "rationale": "Sneak-in + free helicopter + chase: three escalating beats"
+  },
+  "source": {
+    "path": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+    "owner": "LunarGaming (OnWC__OxyTk)",
+    "captured_by": "LunarGaming",
+    "capture_date": "20261118",
+    "platform": "YouTube uploads licensed CC BY (Creative Commons Attribution)",
+    "game_version": "GTA VI retail (released Nov 19, 2026)",
+    "rights_basis": "Creative Commons Attribution licence set by each uploader (verified via YouTube metadata); attribution in description",
+    "monetization_permission": "unconfirmed",
+    "leaked_or_prerelease": false,
+    "isolated_cutscene": false,
+    "story_spoilers": false,
+    "third_party_creator_footage": true,
+    "third_party_permission_doc": "CC BY licence on each source video: https://www.youtube.com/watch?v=OnWC__OxyTk",
+    "third_party_audio": "none detected (in-game dialogue/SFX only; no song lyrics found by transcription)",
+    "voice": "in-game character dialogue only",
+    "cc_credits": [
+      {
+        "video_id": "OnWC__OxyTk",
+        "channel": "LunarGaming",
+        "title": "GTA 6 - What Happens If You Go On The Cruise Ship",
+        "url": "https://www.youtube.com/watch?v=OnWC__OxyTk",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCmF3ZcCBFUD-mcwg-r3SMyA"
+      }
+    ]
+  },
+  "framing": "blur",
+  "auto_sfx": true,
+  "shots": [
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 86.8,
+      "out": 89.0,
+      "speed": 1.0,
+      "label": "",
+      "fx": [
+        "flash"
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 11.05,
+      "out": 22.95,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 30.07,
+      "out": 45.93,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 53.05,
+      "out": 64.95,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 70.71,
+      "out": 81.29,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 87.0,
+      "out": 105.5,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "freeze",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "at": 88.0,
+      "dur": 0.9,
+      "label": "FREE HELI?"
+    },
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 86.0,
+      "out": 90.0,
+      "speed": 0.5,
+      "transition": "fade",
+      "fx": [
+        "highlight",
+        "flash"
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 115.05,
+      "out": 126.95,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 133.39,
+      "out": 146.61,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 153.73,
+      "out": 168.27,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 176.07,
+      "out": 191.93,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 208.9,
+      "out": 224.1,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 230.71,
+      "out": 241.29,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    }
+  ],
+  "texts": [
+    {
+      "t0": 0.0,
+      "t1": 2.4,
+      "style": "hook",
+      "text": "What's on the [CRUISE SHIP]?"
+    },
+    {
+      "t0": 2.15,
+      "t1": 6.0,
+      "style": "card",
+      "text": "Getting onto the\ncruise ship"
+    },
+    {
+      "t0": 14.04,
+      "t1": 17.89,
+      "style": "card",
+      "text": "Up and over"
+    },
+    {
+      "t0": 29.9,
+      "t1": 33.75,
+      "style": "card",
+      "text": "Crew only? Not today"
+    },
+    {
+      "t0": 41.8,
+      "t1": 45.65,
+      "style": "card",
+      "text": "Wait... a HELIPAD?"
+    },
+    {
+      "t0": 52.37,
+      "t1": 56.22,
+      "style": "card",
+      "text": "Taking it for a spin"
+    },
+    {
+      "t0": 79.37,
+      "t1": 83.22,
+      "style": "card",
+      "text": "Vice City from above"
+    },
+    {
+      "t0": 91.27,
+      "t1": 95.12,
+      "style": "card",
+      "text": "...and back on deck"
+    },
+    {
+      "t0": 104.48,
+      "t1": 108.33,
+      "style": "card",
+      "text": "Security spotted me"
+    },
+    {
+      "t0": 119.02,
+      "t1": 122.87,
+      "style": "card",
+      "text": "Run!"
+    },
+    {
+      "t0": 134.68,
+      "t1": 138.53,
+      "style": "card",
+      "text": "Out of deck to run on"
+    },
+    {
+      "t0": 149.88,
+      "t1": 153.73,
+      "style": "card",
+      "text": "Only one way off this\nship"
+    }
+  ],
+  "captions": [],
+  "sfx": [],
+  "music": {
+    "path": "D:/GTA6_SHORTS/channel_branding/music/bed_05.wav",
+    "license": "Original, synthesized in code (make_video.synth_music)",
+    "gain": 0.13
+  },
+  "caption_y": 1640,
+  "label_y": 1180,
+  "words": [],
+  "facts": [],
+  "glitch_reproduced_in_footage": false,
+  "card_y": 1650
+}

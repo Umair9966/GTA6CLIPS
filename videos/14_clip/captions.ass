@@ -1,0 +1,29 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Poppins,80,&H00FAF7F5,&H000AD6FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,2,5,60,60,0,1
+Style: Hook,Anton,108,&H00FAF7F5,&H000AD6FF,&H001A0F0B,&H64000000,0,0,0,0,100,100,1,0,1,9,3,8,60,60,0,1
+Style: Label,Anton,84,&H000AD6FF,&H00FAF7F5,&H001A0F0B,&H64000000,0,0,0,0,100,100,2,0,1,7,2,5,60,60,0,1
+Style: Card,Anton,74,&H00FAF7F5,&H000AD6FF,&H18632EFF,&H18632EFF,0,0,0,0,100,100,1,0,3,22,0,5,90,90,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:02.40,Hook,,0,0,0,,{\pos(540,300)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}Every {\c&H000AD6FF}VEHICLE{\r} we drove
+Dialogue: 2,0:00:02.15,0:00:06.00,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}1. Old red pickup
+Dialogue: 2,0:00:16.04,0:00:19.89,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}2. Work pickup
+Dialogue: 2,0:00:29.93,0:00:33.78,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}3. White Porsche
+Dialogue: 2,0:00:45.21,0:00:49.06,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}4. Motorbike
+Dialogue: 2,0:00:59.09,0:01:02.94,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}5. Street bike
+Dialogue: 2,0:01:11.39,0:01:15.24,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}6. Speedboat
+Dialogue: 2,0:01:25.28,0:01:29.13,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}7. Small fishing boat
+Dialogue: 2,0:01:36.39,0:01:40.24,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}8. Mountain bike
+Dialogue: 2,0:01:50.28,0:01:54.13,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}9. Helicopter
+Dialogue: 2,0:02:05.36,0:02:09.21,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}10. A MILITARY TANK
+Dialogue: 2,0:02:31.61,0:02:32.46,Label,,0,0,0,,{\pos(540,1180)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}A TANK.
+Dialogue: 2,0:02:32.31,0:02:33.86,Label,,0,0,0,,{\pos(540,1180)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}REPLAY x0.5

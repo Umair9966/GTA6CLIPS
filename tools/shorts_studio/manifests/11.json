@@ -1,0 +1,354 @@
+{
+  "id": "11",
+  "group": "B",
+  "style": "fact",
+  "concept": "GTA 6 Has HIKING? Mountains, Trails & Bikes 🏔️",
+  "title": "GTA 6 Has HIKING? Mountains, Trails & Bikes 🏔️",
+  "description": "GTA 6 Has HIKING? Mountains, Trails & Bikes 🏔️\n\nGameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:\n- \"GTA 6 Gameplay - No Spoilers\" by How to Everything: https://www.youtube.com/watch?v=Q8sWvko-g8E (licensed CC BY)\n\nEdited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.",
+  "hashtags": [
+    "#GTA6",
+    "#GTAVI",
+    "#Shorts",
+    "#Hiking",
+    "#GTA6Details",
+    "#OpenWorld"
+  ],
+  "hook": "GTA 6 has HIKING?",
+  "thumbnail": {
+    "text": "GTA 6 HAS|[HIKING]?",
+    "time": 64.12,
+    "idea": "Frame from the action peak with bold two-line text."
+  },
+  "pinned_comment": "Would you actually go hiking in GTA 6? 🥾",
+  "editing_plan": [
+    "0-2.2s cold open: flash-forward of the peak moment under the hook text",
+    "Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)",
+    "Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms",
+    "Peak moment: freeze frame + 'THAT VIEW' label, then 0.5x replay with highlight border",
+    "Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts",
+    "Ends on the outro sting for a loop back to the cold open"
+  ],
+  "ranking": {
+    "score": 6,
+    "rationale": "Surprising activity (hiking) but slower footage"
+  },
+  "source": {
+    "path": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+    "owner": "How to Everything (Q8sWvko-g8E)",
+    "captured_by": "How to Everything",
+    "capture_date": "20261118",
+    "platform": "YouTube uploads licensed CC BY (Creative Commons Attribution)",
+    "game_version": "GTA VI retail (released Nov 19, 2026)",
+    "rights_basis": "Creative Commons Attribution licence set by each uploader (verified via YouTube metadata); attribution in description",
+    "monetization_permission": "unconfirmed",
+    "leaked_or_prerelease": false,
+    "isolated_cutscene": false,
+    "story_spoilers": false,
+    "third_party_creator_footage": true,
+    "third_party_permission_doc": "CC BY licence on each source video: https://www.youtube.com/watch?v=Q8sWvko-g8E",
+    "third_party_audio": "none detected (in-game dialogue/SFX only; no song lyrics found by transcription)",
+    "voice": "in-game character dialogue only",
+    "cc_credits": [
+      {
+        "video_id": "Q8sWvko-g8E",
+        "channel": "How to Everything",
+        "title": "GTA 6 Gameplay - No Spoilers",
+        "url": "https://www.youtube.com/watch?v=Q8sWvko-g8E",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCCMZ64wccR-qFxsSG1koAeQ"
+      }
+    ]
+  },
+  "framing": "blur",
+  "auto_sfx": true,
+  "shots": [
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 758.8,
+      "out": 761.0,
+      "speed": 1.0,
+      "label": "",
+      "fx": [
+        "flash"
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 485.2,
+      "out": 500.8,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 525.2,
+      "out": 540.8,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 564.8,
+      "out": 579.2,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 616.8,
+      "out": 631.2,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 1044.8,
+      "out": 1059.2,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 724.8,
+      "out": 739.2,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 749.6,
+      "out": 766.4,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "freeze",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "at": 760.0,
+      "dur": 0.9,
+      "label": "THAT VIEW"
+    },
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 758.0,
+      "out": 762.0,
+      "speed": 0.5,
+      "transition": "fade",
+      "fx": [
+        "highlight",
+        "flash"
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 925.2,
+      "out": 940.8,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 964.8,
+      "out": 979.2,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 1004.8,
+      "out": 1019.2,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    }
+  ],
+  "texts": [
+    {
+      "t0": 0.0,
+      "t1": 2.4,
+      "style": "hook",
+      "text": "GTA 6 has [HIKING]?"
+    },
+    {
+      "t0": 2.15,
+      "t1": 6.0,
+      "style": "card",
+      "text": "Leaving the city\nbehind"
+    },
+    {
+      "t0": 17.75,
+      "t1": 21.6,
+      "style": "card",
+      "text": "Real hiking trails"
+    },
+    {
+      "t0": 33.35,
+      "t1": 37.2,
+      "style": "card",
+      "text": "Other hikers on the\npath"
+    },
+    {
+      "t0": 47.75,
+      "t1": 51.6,
+      "style": "card",
+      "text": "A cave?"
+    },
+    {
+      "t0": 62.15,
+      "t1": 66.0,
+      "style": "card",
+      "text": "Top of the ridge"
+    },
+    {
+      "t0": 76.35,
+      "t1": 80.2,
+      "style": "card",
+      "text": "Climbing higher"
+    },
+    {
+      "t0": 90.75,
+      "t1": 94.6,
+      "style": "card",
+      "text": "The view from the top"
+    },
+    {
+      "t0": 116.25,
+      "t1": 120.1,
+      "style": "card",
+      "text": "Bikers on the trail"
+    },
+    {
+      "t0": 131.85,
+      "t1": 135.7,
+      "style": "card",
+      "text": "Off the beaten path"
+    },
+    {
+      "t0": 146.05,
+      "t1": 149.9,
+      "style": "card",
+      "text": "Mountain view again"
+    }
+  ],
+  "captions": [],
+  "sfx": [],
+  "music": {
+    "path": "D:/GTA6_SHORTS/channel_branding/music/bed_11.wav",
+    "license": "Original, synthesized in code (make_video.synth_music)",
+    "gain": 0.13
+  },
+  "facts": [],
+  "words": [],
+  "caption_y": 1640,
+  "label_y": 1180,
+  "glitch_reproduced_in_footage": false,
+  "card_y": 1650
+}

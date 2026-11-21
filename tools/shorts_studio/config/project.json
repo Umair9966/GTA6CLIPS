@@ -1,0 +1,13 @@
+{
+  "output_root": "D:/GTA6_SHORTS",
+  "source_footage_dir": "D:/GTA6_SHORTS/_source_footage",
+  "groups": {
+    "A": "GROUP_A_REFERENCE_INSPIRED",
+    "B": "GROUP_B_FACTS_GLITCHES"
+  },
+  "fps": 30,
+  "duration_min": 120,
+  "duration_max": 179,
+  "target_lufs": -14,
+  "true_peak": -1.5
+}

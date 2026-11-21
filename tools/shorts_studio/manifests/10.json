@@ -1,0 +1,354 @@
+{
+  "id": "10",
+  "group": "B",
+  "style": "fact",
+  "concept": "What's Under the Water in GTA 6? 🌊 (You Can Actually Dive)",
+  "title": "What's Under the Water in GTA 6? 🌊 (You Can Actually Dive)",
+  "description": "What's Under the Water in GTA 6? 🌊 (You Can Actually Dive)\n\nGameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:\n- \"GTA 6 Underwater Gameplay - No Spoilers\" by How to Everything: https://www.youtube.com/watch?v=uUgqefS1Yeo (licensed CC BY)\n\nEdited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.",
+  "hashtags": [
+    "#GTA6",
+    "#GTAVI",
+    "#Shorts",
+    "#Underwater",
+    "#GTA6Details",
+    "#Gaming"
+  ],
+  "hook": "You can DIVE in GTA 6",
+  "thumbnail": {
+    "text": "UNDER|[THE WATER]",
+    "time": 48.09,
+    "idea": "Frame from the action peak with bold two-line text."
+  },
+  "pinned_comment": "What do you think is hiding down there? 🌊",
+  "editing_plan": [
+    "0-2.2s cold open: flash-forward of the peak moment under the hook text",
+    "Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)",
+    "Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms",
+    "Peak moment: freeze frame + 'DIVE!' label, then 0.5x replay with highlight border",
+    "Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts",
+    "Ends on the outro sting for a loop back to the cold open"
+  ],
+  "ranking": {
+    "score": 6,
+    "rationale": "Answers a common question (can you dive?); calmer pacing"
+  },
+  "source": {
+    "path": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+    "owner": "How to Everything (uUgqefS1Yeo)",
+    "captured_by": "How to Everything",
+    "capture_date": "20261118",
+    "platform": "YouTube uploads licensed CC BY (Creative Commons Attribution)",
+    "game_version": "GTA VI retail (released Nov 19, 2026)",
+    "rights_basis": "Creative Commons Attribution licence set by each uploader (verified via YouTube metadata); attribution in description",
+    "monetization_permission": "unconfirmed",
+    "leaked_or_prerelease": false,
+    "isolated_cutscene": false,
+    "story_spoilers": false,
+    "third_party_creator_footage": true,
+    "third_party_permission_doc": "CC BY licence on each source video: https://www.youtube.com/watch?v=uUgqefS1Yeo",
+    "third_party_audio": "none detected (in-game dialogue/SFX only; no song lyrics found by transcription)",
+    "voice": "in-game character dialogue only",
+    "cc_credits": [
+      {
+        "video_id": "uUgqefS1Yeo",
+        "channel": "How to Everything",
+        "title": "GTA 6 Underwater Gameplay - No Spoilers",
+        "url": "https://www.youtube.com/watch?v=uUgqefS1Yeo",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCCMZ64wccR-qFxsSG1koAeQ"
+      }
+    ]
+  },
+  "framing": "blur",
+  "auto_sfx": true,
+  "shots": [
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 93.8,
+      "out": 96.0,
+      "speed": 1.0,
+      "label": "",
+      "fx": [
+        "flash"
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 2.0,
+      "out": 14.0,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 18.5,
+      "out": 33.5,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 58.5,
+      "out": 73.5,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 88.5,
+      "out": 103.5,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "freeze",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "at": 95.0,
+      "dur": 0.9,
+      "label": "DIVE!"
+    },
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 93.0,
+      "out": 97.0,
+      "speed": 0.5,
+      "transition": "fade",
+      "fx": [
+        "highlight",
+        "flash"
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 142.5,
+      "out": 157.5,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 202.5,
+      "out": 217.5,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 302.5,
+      "out": 317.5,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 382.5,
+      "out": 397.5,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 456.75,
+      "out": 473.25,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/uUgqefS1Yeo.mp4",
+      "in": 472.75,
+      "out": 489.25,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    }
+  ],
+  "texts": [
+    {
+      "t0": 0.0,
+      "t1": 2.4,
+      "style": "hook",
+      "text": "You can [DIVE] in GTA 6"
+    },
+    {
+      "t0": 2.15,
+      "t1": 6.0,
+      "style": "card",
+      "text": "Off the dock"
+    },
+    {
+      "t0": 14.15,
+      "t1": 18.0,
+      "style": "card",
+      "text": "Into the lake"
+    },
+    {
+      "t0": 29.15,
+      "t1": 33.0,
+      "style": "card",
+      "text": "FACT: you can dive\nunder"
+    },
+    {
+      "t0": 44.15,
+      "t1": 48.0,
+      "style": "card",
+      "text": "Swim speed: hold to go\nfaster"
+    },
+    {
+      "t0": 67.85,
+      "t1": 71.7,
+      "style": "card",
+      "text": "Back up for air"
+    },
+    {
+      "t0": 82.65,
+      "t1": 86.5,
+      "style": "card",
+      "text": "Look at those\nreflections"
+    },
+    {
+      "t0": 97.65,
+      "t1": 101.5,
+      "style": "card",
+      "text": "Deeper..."
+    },
+    {
+      "t0": 112.65,
+      "t1": 116.5,
+      "style": "card",
+      "text": "Seagrass on the\nlakebed"
+    },
+    {
+      "t0": 127.65,
+      "t1": 131.5,
+      "style": "card",
+      "text": "Sunset swim"
+    },
+    {
+      "t0": 143.95,
+      "t1": 147.8,
+      "style": "card",
+      "text": "Below the surface"
+    }
+  ],
+  "captions": [],
+  "sfx": [],
+  "music": {
+    "path": "D:/GTA6_SHORTS/channel_branding/music/bed_10.wav",
+    "license": "Original, synthesized in code (make_video.synth_music)",
+    "gain": 0.13
+  },
+  "facts": [],
+  "words": [],
+  "caption_y": 1640,
+  "label_y": 1180,
+  "glitch_reproduced_in_footage": false,
+  "card_y": 1650
+}

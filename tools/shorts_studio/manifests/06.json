@@ -1,0 +1,331 @@
+{
+  "id": "06",
+  "group": "A",
+  "style": "action",
+  "concept": "Robbing a Store in GTA 6… Then the Getaway 🏍️",
+  "title": "Robbing a Store in GTA 6… Then the Getaway 🏍️",
+  "description": "Robbing a Store in GTA 6… Then the Getaway 🏍️\n\nGameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:\n- \"How To Rob BANKS In GTA 6 (IN FREEROAM)\" by How to Everything: https://www.youtube.com/watch?v=f5xjnI4NcFo (licensed CC BY)\n\nEdited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.",
+  "hashtags": [
+    "#GTA6",
+    "#GTAVI",
+    "#Shorts",
+    "#Gaming",
+    "#Robbery",
+    "#GTA6Gameplay"
+  ],
+  "hook": "Robbing a store in GTA 6",
+  "thumbnail": {
+    "text": "STORE|[ROBBERY]",
+    "time": 42.39,
+    "idea": "Frame from the action peak with bold two-line text."
+  },
+  "pinned_comment": "Clean getaway or nah? 🏍️",
+  "editing_plan": [
+    "0-2.2s cold open: flash-forward of the peak moment under the hook text",
+    "Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)",
+    "Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms",
+    "Peak moment: freeze frame + 'HANDS UP' label, then 0.5x replay with highlight border",
+    "Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts",
+    "Ends on the outro sting for a loop back to the cold open"
+  ],
+  "ranking": {
+    "score": 8,
+    "rationale": "Classic GTA crime loop, quick payoff, getaway ending"
+  },
+  "source": {
+    "path": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+    "owner": "How to Everything (f5xjnI4NcFo)",
+    "captured_by": "How to Everything",
+    "capture_date": "20261119",
+    "platform": "YouTube uploads licensed CC BY (Creative Commons Attribution)",
+    "game_version": "GTA VI retail (released Nov 19, 2026)",
+    "rights_basis": "Creative Commons Attribution licence set by each uploader (verified via YouTube metadata); attribution in description",
+    "monetization_permission": "unconfirmed",
+    "leaked_or_prerelease": false,
+    "isolated_cutscene": false,
+    "story_spoilers": false,
+    "third_party_creator_footage": true,
+    "third_party_permission_doc": "CC BY licence on each source video: https://www.youtube.com/watch?v=f5xjnI4NcFo",
+    "third_party_audio": "none detected (in-game dialogue/SFX only; no song lyrics found by transcription)",
+    "voice": "in-game character dialogue only; source narrator muted",
+    "cc_credits": [
+      {
+        "video_id": "f5xjnI4NcFo",
+        "channel": "How to Everything",
+        "title": "How To Rob BANKS In GTA 6 (IN FREEROAM)",
+        "url": "https://www.youtube.com/watch?v=f5xjnI4NcFo",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261119",
+        "channel_url": "https://www.youtube.com/channel/UCCMZ64wccR-qFxsSG1koAeQ"
+      }
+    ]
+  },
+  "framing": "blur",
+  "auto_sfx": true,
+  "shots": [
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 29.8,
+      "out": 32.0,
+      "speed": 1.0,
+      "label": "",
+      "fx": [
+        "flash"
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "audio": "mute"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 0.0,
+      "out": 12.0,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "mute",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 12.0,
+      "out": 26.0,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 26.0,
+      "out": 40.0,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "freeze",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "at": 31.0,
+      "dur": 0.9,
+      "label": "HANDS UP"
+    },
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 29.0,
+      "out": 33.0,
+      "speed": 0.5,
+      "transition": "fade",
+      "fx": [
+        "highlight",
+        "flash"
+      ],
+      "audio": "mute"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 40.0,
+      "out": 58.0,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 58.0,
+      "out": 72.0,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "mute",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 72.0,
+      "out": 84.0,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 84.0,
+      "out": 98.0,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 98.0,
+      "out": 118.0,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "mute",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/f5xjnI4NcFo.mp4",
+      "in": 118.0,
+      "out": 131.0,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "mute",
+      "transition": "fade"
+    }
+  ],
+  "texts": [
+    {
+      "t0": 0.0,
+      "t1": 2.4,
+      "style": "hook",
+      "text": "Robbing a store in [GTA 6]"
+    },
+    {
+      "t0": 2.15,
+      "t1": 6.0,
+      "style": "card",
+      "text": "Just a normal corner\nstore"
+    },
+    {
+      "t0": 14.15,
+      "t1": 18.0,
+      "style": "card",
+      "text": "Browsing... totally\ninnocent"
+    },
+    {
+      "t0": 28.15,
+      "t1": 32.0,
+      "style": "card",
+      "text": "OK, not innocent"
+    },
+    {
+      "t0": 50.85,
+      "t1": 54.7,
+      "style": "card",
+      "text": "To the back room"
+    },
+    {
+      "t0": 68.85,
+      "t1": 72.7,
+      "style": "card",
+      "text": "Where's the cash?"
+    },
+    {
+      "t0": 82.65,
+      "t1": 86.5,
+      "style": "card",
+      "text": "Grab it and go"
+    },
+    {
+      "t0": 94.65,
+      "t1": 98.5,
+      "style": "card",
+      "text": "Getaway ride: found"
+    },
+    {
+      "t0": 108.65,
+      "t1": 112.5,
+      "style": "card",
+      "text": "Full throttle"
+    },
+    {
+      "t0": 128.65,
+      "t1": 132.5,
+      "style": "card",
+      "text": "Escaped... to the\nbeach"
+    }
+  ],
+  "captions": [],
+  "sfx": [],
+  "music": {
+    "path": "D:/GTA6_SHORTS/channel_branding/music/bed_06.wav",
+    "license": "Original, synthesized in code (make_video.synth_music)",
+    "gain": 0.3
+  },
+  "caption_y": 1640,
+  "label_y": 1180,
+  "words": [],
+  "facts": [],
+  "glitch_reproduced_in_footage": false,
+  "card_y": 1650
+}

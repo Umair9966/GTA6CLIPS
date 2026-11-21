@@ -1,0 +1,331 @@
+{
+  "id": "08",
+  "group": "A",
+  "style": "action",
+  "concept": "Taking a Porsche Through GTA 6 Vice City Traffic 🏎️",
+  "title": "Taking a Porsche Through GTA 6 Vice City Traffic 🏎️",
+  "description": "Taking a Porsche Through GTA 6 Vice City Traffic 🏎️\n\nGameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:\n- \"GTA 6 Gameplay - No Spoilers\" by How to Everything: https://www.youtube.com/watch?v=Q8sWvko-g8E (licensed CC BY)\n\nEdited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.",
+  "hashtags": [
+    "#GTA6",
+    "#GTAVI",
+    "#Shorts",
+    "#Porsche",
+    "#ViceCity",
+    "#Driving"
+  ],
+  "hook": "Vice City TRAFFIC is crazy",
+  "thumbnail": {
+    "text": "VICE CITY|[TRAFFIC]",
+    "time": 80.15,
+    "idea": "Frame from the action peak with bold two-line text."
+  },
+  "pinned_comment": "What car are you driving first in Vice City? 🏎️",
+  "editing_plan": [
+    "0-2.2s cold open: flash-forward of the peak moment under the hook text",
+    "Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)",
+    "Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms",
+    "Peak moment: freeze frame + 'CLOSE ONE' label, then 0.5x replay with highlight border",
+    "Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts",
+    "Ends on the outro sting for a loop back to the cold open"
+  ],
+  "ranking": {
+    "score": 6,
+    "rationale": "Satisfying driving, fewer stand-out beats"
+  },
+  "source": {
+    "path": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+    "owner": "How to Everything (Q8sWvko-g8E)",
+    "captured_by": "How to Everything",
+    "capture_date": "20261118",
+    "platform": "YouTube uploads licensed CC BY (Creative Commons Attribution)",
+    "game_version": "GTA VI retail (released Nov 19, 2026)",
+    "rights_basis": "Creative Commons Attribution licence set by each uploader (verified via YouTube metadata); attribution in description",
+    "monetization_permission": "unconfirmed",
+    "leaked_or_prerelease": false,
+    "isolated_cutscene": false,
+    "story_spoilers": false,
+    "third_party_creator_footage": true,
+    "third_party_permission_doc": "CC BY licence on each source video: https://www.youtube.com/watch?v=Q8sWvko-g8E",
+    "third_party_audio": "none detected (in-game dialogue/SFX only; no song lyrics found by transcription)",
+    "voice": "in-game character dialogue only",
+    "cc_credits": [
+      {
+        "video_id": "Q8sWvko-g8E",
+        "channel": "How to Everything",
+        "title": "GTA 6 Gameplay - No Spoilers",
+        "url": "https://www.youtube.com/watch?v=Q8sWvko-g8E",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCCMZ64wccR-qFxsSG1koAeQ"
+      }
+    ]
+  },
+  "framing": "blur",
+  "auto_sfx": true,
+  "shots": [
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 416.8,
+      "out": 419.0,
+      "speed": 1.0,
+      "label": "",
+      "fx": [
+        "flash"
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "audio": "duck"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 4.44,
+      "out": 19.56,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "duck",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 29.18,
+      "out": 46.82,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "duck",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 57.18,
+      "out": 74.82,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "duck",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 204.81,
+      "out": 221.19,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "duck",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 262.81,
+      "out": 279.19,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "duck",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 344.81,
+      "out": 361.19,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "duck",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 394.81,
+      "out": 411.19,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "duck",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 417.0,
+      "out": 435.91,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "duck",
+      "transition": "cut"
+    },
+    {
+      "type": "freeze",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "at": 418.0,
+      "dur": 0.9,
+      "label": "CLOSE ONE"
+    },
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 416.0,
+      "out": 420.0,
+      "speed": 0.5,
+      "transition": "fade",
+      "fx": [
+        "highlight",
+        "flash"
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 450.44,
+      "out": 465.56,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "duck",
+      "transition": "fade"
+    }
+  ],
+  "texts": [
+    {
+      "t0": 0.0,
+      "t1": 2.4,
+      "style": "hook",
+      "text": "Vice City [TRAFFIC] is crazy"
+    },
+    {
+      "t0": 2.15,
+      "t1": 6.0,
+      "style": "card",
+      "text": "Downtown Vice City"
+    },
+    {
+      "t0": 17.28,
+      "t1": 21.13,
+      "style": "card",
+      "text": "Weaving through\ntraffic"
+    },
+    {
+      "t0": 34.92,
+      "t1": 38.77,
+      "style": "card",
+      "text": "Pickup's too slow..."
+    },
+    {
+      "t0": 52.57,
+      "t1": 56.42,
+      "style": "card",
+      "text": "Upgrade unlocked"
+    },
+    {
+      "t0": 68.96,
+      "t1": 72.81,
+      "style": "card",
+      "text": "Under the highway"
+    },
+    {
+      "t0": 85.14,
+      "t1": 88.99,
+      "style": "card",
+      "text": "Full send"
+    },
+    {
+      "t0": 101.53,
+      "t1": 105.38,
+      "style": "card",
+      "text": "City streets"
+    },
+    {
+      "t0": 117.92,
+      "t1": 121.77,
+      "style": "card",
+      "text": "Pedestrians, watch out"
+    },
+    {
+      "t0": 145.52,
+      "t1": 149.37,
+      "style": "card",
+      "text": "Park it like a pro"
+    }
+  ],
+  "captions": [],
+  "sfx": [],
+  "music": {
+    "path": "D:/GTA6_SHORTS/channel_branding/music/bed_08.wav",
+    "license": "Original, synthesized in code (make_video.synth_music)",
+    "gain": 0.13
+  },
+  "words": [],
+  "caption_y": 1640,
+  "label_y": 1180,
+  "facts": [],
+  "glitch_reproduced_in_footage": false,
+  "card_y": 1650
+}

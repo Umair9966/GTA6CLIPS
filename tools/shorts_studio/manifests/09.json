@@ -1,0 +1,308 @@
+{
+  "id": "09",
+  "group": "A",
+  "style": "action",
+  "concept": "Boat Ride Through the GTA 6 Keys 🌴 (This Water Is Unreal)",
+  "title": "Boat Ride Through the GTA 6 Keys 🌴 (This Water Is Unreal)",
+  "description": "Boat Ride Through the GTA 6 Keys 🌴 (This Water Is Unreal)\n\nGameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:\n- \"GTA 6 Gameplay - No Spoilers\" by How to Everything: https://www.youtube.com/watch?v=8KivA-3nTYg (licensed CC BY)\n\nEdited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.",
+  "hashtags": [
+    "#GTA6",
+    "#GTAVI",
+    "#Shorts",
+    "#LeonidaKeys",
+    "#Gaming",
+    "#Boat"
+  ],
+  "hook": "Look at this WATER",
+  "thumbnail": {
+    "text": "THIS WATER|[IS UNREAL]",
+    "time": 80.25,
+    "idea": "Frame from the action peak with bold two-line text."
+  },
+  "pinned_comment": "Boat or car, how are you exploring the Keys? 🚤",
+  "editing_plan": [
+    "0-2.2s cold open: flash-forward of the peak moment under the hook text",
+    "Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)",
+    "Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms",
+    "Peak moment: freeze frame + 'OH NO' label, then 0.5x replay with highlight border",
+    "Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts",
+    "Ends on the outro sting for a loop back to the cold open"
+  ],
+  "ranking": {
+    "score": 5,
+    "rationale": "Beautiful but chill; best as a loopable vibe Short"
+  },
+  "source": {
+    "path": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+    "owner": "How to Everything (8KivA-3nTYg)",
+    "captured_by": "How to Everything",
+    "capture_date": "20261118",
+    "platform": "YouTube uploads licensed CC BY (Creative Commons Attribution)",
+    "game_version": "GTA VI retail (released Nov 19, 2026)",
+    "rights_basis": "Creative Commons Attribution licence set by each uploader (verified via YouTube metadata); attribution in description",
+    "monetization_permission": "unconfirmed",
+    "leaked_or_prerelease": false,
+    "isolated_cutscene": false,
+    "story_spoilers": false,
+    "third_party_creator_footage": true,
+    "third_party_permission_doc": "CC BY licence on each source video: https://www.youtube.com/watch?v=8KivA-3nTYg",
+    "third_party_audio": "none detected (in-game dialogue/SFX only; no song lyrics found by transcription)",
+    "voice": "in-game character dialogue only",
+    "cc_credits": [
+      {
+        "video_id": "8KivA-3nTYg",
+        "channel": "How to Everything",
+        "title": "GTA 6 Gameplay - No Spoilers",
+        "url": "https://www.youtube.com/watch?v=8KivA-3nTYg",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCCMZ64wccR-qFxsSG1koAeQ"
+      }
+    ]
+  },
+  "framing": "blur",
+  "auto_sfx": true,
+  "shots": [
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 431.8,
+      "out": 434.0,
+      "speed": 1.0,
+      "label": "",
+      "fx": [
+        "flash"
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 379.52,
+      "out": 398.48,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 401.38,
+      "out": 418.62,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 421.38,
+      "out": 438.62,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "freeze",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "at": 433.0,
+      "dur": 0.9,
+      "label": "OH NO"
+    },
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 431.0,
+      "out": 435.0,
+      "speed": 0.5,
+      "transition": "fade",
+      "fx": [
+        "highlight",
+        "flash"
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 441.52,
+      "out": 460.48,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 463.52,
+      "out": 482.48,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 485.52,
+      "out": 504.48,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 507.52,
+      "out": 526.48,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 529.66,
+      "out": 550.34,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    }
+  ],
+  "texts": [
+    {
+      "t0": 0.0,
+      "t1": 2.4,
+      "style": "hook",
+      "text": "Look at this [WATER]"
+    },
+    {
+      "t0": 2.15,
+      "t1": 6.0,
+      "style": "card",
+      "text": "Out on the water"
+    },
+    {
+      "t0": 21.12,
+      "t1": 24.97,
+      "style": "card",
+      "text": "Just a casual boat\ntrip"
+    },
+    {
+      "t0": 38.36,
+      "t1": 42.21,
+      "style": "card",
+      "text": "Hold on..."
+    },
+    {
+      "t0": 64.3,
+      "t1": 68.15,
+      "style": "card",
+      "text": "Bridges, islands, open\nsea"
+    },
+    {
+      "t0": 83.26,
+      "t1": 87.11,
+      "style": "card",
+      "text": "Look at those waves"
+    },
+    {
+      "t0": 102.03,
+      "t1": 105.88,
+      "style": "card",
+      "text": "Through the channel"
+    },
+    {
+      "t0": 120.99,
+      "t1": 124.84,
+      "style": "card",
+      "text": "Mangroves everywhere"
+    },
+    {
+      "t0": 139.96,
+      "t1": 143.81,
+      "style": "card",
+      "text": "The Keys at their best"
+    }
+  ],
+  "captions": [],
+  "sfx": [],
+  "music": {
+    "path": "D:/GTA6_SHORTS/channel_branding/music/bed_09.wav",
+    "license": "Original, synthesized in code (make_video.synth_music)",
+    "gain": 0.13
+  },
+  "words": [],
+  "caption_y": 1640,
+  "label_y": 1180,
+  "facts": [],
+  "glitch_reproduced_in_footage": false,
+  "card_y": 1650
+}

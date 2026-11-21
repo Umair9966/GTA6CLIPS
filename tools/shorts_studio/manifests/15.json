@@ -1,0 +1,372 @@
+{
+  "id": "15",
+  "group": "B",
+  "style": "fact",
+  "concept": "GTA 6 NPCs Are Way Too Real 😂",
+  "title": "GTA 6 NPCs Are Way Too Real 😂",
+  "description": "GTA 6 NPCs Are Way Too Real 😂\n\nGameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:\n- \"GTA 6 Gameplay - No Spoilers\" by How to Everything: https://www.youtube.com/watch?v=8KivA-3nTYg (licensed CC BY)\n- \"GTA 6 - What Happens If You Go On The Cruise Ship\" by LunarGaming: https://www.youtube.com/watch?v=OnWC__OxyTk (licensed CC BY)\n- \"GTA 6 Gameplay - No Spoilers\" by How to Everything: https://www.youtube.com/watch?v=Q8sWvko-g8E (licensed CC BY)\n\nEdited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.",
+  "hashtags": [
+    "#GTA6",
+    "#GTAVI",
+    "#Shorts",
+    "#NPC",
+    "#Funny",
+    "#GTA6Gameplay"
+  ],
+  "hook": "GTA 6 NPCs have ATTITUDE",
+  "thumbnail": {
+    "text": "NPCs ARE|[TOO REAL]",
+    "time": 80.15,
+    "idea": "Frame from the action peak with bold two-line text."
+  },
+  "pinned_comment": "Best NPC line you've heard so far? 😂",
+  "editing_plan": [
+    "0-2.2s cold open: flash-forward of the peak moment under the hook text",
+    "Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)",
+    "Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms",
+    "Peak moment: freeze frame + 'RUDE' label, then 0.5x replay with highlight border",
+    "Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts",
+    "Ends on the outro sting for a loop back to the cold open"
+  ],
+  "ranking": {
+    "score": 8,
+    "rationale": "Real NPC dialogue with attitude; very shareable and comment-friendly"
+  },
+  "source": {
+    "path": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+    "owner": "How to Everything (8KivA-3nTYg); LunarGaming (OnWC__OxyTk); How to Everything (Q8sWvko-g8E)",
+    "captured_by": "How to Everything, LunarGaming",
+    "capture_date": "20261118",
+    "platform": "YouTube uploads licensed CC BY (Creative Commons Attribution)",
+    "game_version": "GTA VI retail (released Nov 19, 2026)",
+    "rights_basis": "Creative Commons Attribution licence set by each uploader (verified via YouTube metadata); attribution in description",
+    "monetization_permission": "unconfirmed",
+    "leaked_or_prerelease": false,
+    "isolated_cutscene": false,
+    "story_spoilers": false,
+    "third_party_creator_footage": true,
+    "third_party_permission_doc": "CC BY licence on each source video: https://www.youtube.com/watch?v=8KivA-3nTYg, https://www.youtube.com/watch?v=OnWC__OxyTk, https://www.youtube.com/watch?v=Q8sWvko-g8E",
+    "third_party_audio": "none detected (in-game dialogue/SFX only; no song lyrics found by transcription)",
+    "voice": "in-game character dialogue only",
+    "cc_credits": [
+      {
+        "video_id": "8KivA-3nTYg",
+        "channel": "How to Everything",
+        "title": "GTA 6 Gameplay - No Spoilers",
+        "url": "https://www.youtube.com/watch?v=8KivA-3nTYg",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCCMZ64wccR-qFxsSG1koAeQ"
+      },
+      {
+        "video_id": "OnWC__OxyTk",
+        "channel": "LunarGaming",
+        "title": "GTA 6 - What Happens If You Go On The Cruise Ship",
+        "url": "https://www.youtube.com/watch?v=OnWC__OxyTk",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCmF3ZcCBFUD-mcwg-r3SMyA"
+      },
+      {
+        "video_id": "Q8sWvko-g8E",
+        "channel": "How to Everything",
+        "title": "GTA 6 Gameplay - No Spoilers",
+        "url": "https://www.youtube.com/watch?v=Q8sWvko-g8E",
+        "license": "Creative Commons Attribution license (reuse allowed)",
+        "upload_date": "20261118",
+        "channel_url": "https://www.youtube.com/channel/UCCMZ64wccR-qFxsSG1koAeQ"
+      }
+    ]
+  },
+  "framing": "blur",
+  "auto_sfx": true,
+  "shots": [
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 837.8,
+      "out": 840.0,
+      "speed": 1.0,
+      "label": "",
+      "fx": [
+        "flash"
+      ],
+      "zoom": [
+        1.0,
+        1.12
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 483.64,
+      "out": 496.36,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 570.37,
+      "out": 585.63,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 600.19,
+      "out": 607.81,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 651.47,
+      "out": 670.53,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 698.92,
+      "out": 709.08,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/OnWC__OxyTk.mp4",
+      "in": 65.83,
+      "out": 86.17,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 385.83,
+      "out": 406.17,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/8KivA-3nTYg.mp4",
+      "in": 434.74,
+      "out": 451.26,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.07
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 821.83,
+      "out": 842.17,
+      "speed": 1.0,
+      "zoom": [
+        1.08,
+        1.08
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "fade"
+    },
+    {
+      "type": "freeze",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "at": 839.0,
+      "dur": 0.9,
+      "label": "RUDE"
+    },
+    {
+      "type": "replay",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 837.0,
+      "out": 841.0,
+      "speed": 0.5,
+      "transition": "fade",
+      "fx": [
+        "highlight",
+        "flash"
+      ],
+      "audio": "keep"
+    },
+    {
+      "type": "play",
+      "src": "D:/GTA6_SHORTS/_source_footage/cc/Q8sWvko-g8E.mp4",
+      "in": 850.19,
+      "out": 857.81,
+      "speed": 1.0,
+      "zoom": [
+        1.0,
+        1.0
+      ],
+      "focus": [
+        0.5,
+        0.5
+      ],
+      "audio": "keep",
+      "transition": "cut"
+    }
+  ],
+  "texts": [
+    {
+      "t0": 0.0,
+      "t1": 2.4,
+      "style": "hook",
+      "text": "GTA 6 NPCs have [ATTITUDE]"
+    },
+    {
+      "t0": 2.15,
+      "t1": 6.0,
+      "style": "card",
+      "text": "Just saying hi to\npeople"
+    },
+    {
+      "t0": 14.86,
+      "t1": 18.71,
+      "style": "card",
+      "text": "\"Hey man, just being\nfriendly\""
+    },
+    {
+      "t0": 30.12,
+      "t1": 33.97,
+      "style": "card",
+      "text": "...not everyone's\nfriendly"
+    },
+    {
+      "t0": 37.74,
+      "t1": 41.59,
+      "style": "card",
+      "text": "These hikers have\nopinions"
+    },
+    {
+      "t0": 56.81,
+      "t1": 60.66,
+      "style": "card",
+      "text": "\"What are you so\nnervous about?\""
+    },
+    {
+      "t0": 66.78,
+      "t1": 70.63,
+      "style": "card",
+      "text": "Cruise ship crew: NOT\nimpressed"
+    },
+    {
+      "t0": 87.12,
+      "t1": 90.97,
+      "style": "card",
+      "text": "Boat crew small talk"
+    },
+    {
+      "t0": 107.46,
+      "t1": 111.31,
+      "style": "card",
+      "text": "Things go wrong..."
+    },
+    {
+      "t0": 123.98,
+      "t1": 127.83,
+      "style": "card",
+      "text": "And then this guy..."
+    },
+    {
+      "t0": 152.82,
+      "t1": 156.67,
+      "style": "card",
+      "text": "He's had enough"
+    }
+  ],
+  "captions": [],
+  "sfx": [],
+  "music": {
+    "path": "D:/GTA6_SHORTS/channel_branding/music/bed_15.wav",
+    "license": "Original, synthesized in code (make_video.synth_music)",
+    "gain": 0.13
+  },
+  "glitch_reproduced_in_footage": false,
+  "words": [],
+  "caption_y": 1640,
+  "label_y": 1180,
+  "facts": [],
+  "card_y": 1650
+}

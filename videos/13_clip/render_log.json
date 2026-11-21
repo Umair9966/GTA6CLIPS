@@ -1,0 +1,261 @@
+{
+  "id": "13",
+  "rights_status": "FLAGGED",
+  "blocking": [],
+  "flags": [
+    "Monetization rights unconfirmed: Rockstar's video policy grants permission for non-commercial use; ad-revenue use is not explicitly covered. Get written permission from Take-Two (copyright@take2games.com) or publish without monetization.",
+    "Third-party audio present (none detected (in-game dialogue/SFX only; no song lyrics found by transcription)): licensed radio music can trigger Content ID claims. Record with in-game radio off or mute those sections."
+  ],
+  "rendered": true,
+  "time": "2026-11-21 01:54:29",
+  "loudness_gain_db": 2.6,
+  "duration": 161.34,
+  "shots": [
+    {
+      "type": "replay",
+      "in": 450.8,
+      "out": 453.0,
+      "speed": 1.0,
+      "dur": 2.1999999999999886,
+      "start": 0.0,
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "in": 442.04,
+      "out": 455.96,
+      "speed": 1.0,
+      "dur": 13.919999999999959,
+      "start": 1.9999999999999887,
+      "transition": "fade"
+    },
+    {
+      "type": "freeze",
+      "in": 452.0,
+      "out": 452.0,
+      "speed": 1.0,
+      "dur": 0.9,
+      "start": 15.919999999999948,
+      "transition": "cut"
+    },
+    {
+      "type": "replay",
+      "in": 450.0,
+      "out": 454.0,
+      "speed": 0.5,
+      "dur": 8.0,
+      "start": 16.619999999999948,
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "in": 457.81,
+      "out": 470.19,
+      "speed": 1.0,
+      "dur": 12.379999999999995,
+      "start": 24.619999999999948,
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "in": 5.59,
+      "out": 16.41,
+      "speed": 1.0,
+      "dur": 10.82,
+      "start": 36.99999999999994,
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "in": 113.81,
+      "out": 126.19,
+      "speed": 1.0,
+      "dur": 12.379999999999995,
+      "start": 47.81999999999994,
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "in": 746.04,
+      "out": 759.96,
+      "speed": 1.0,
+      "dur": 13.920000000000073,
+      "start": 59.999999999999936,
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "in": 19.81,
+      "out": 32.19,
+      "speed": 1.0,
+      "dur": 12.379999999999999,
+      "start": 73.92000000000002,
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "in": 1.81,
+      "out": 14.19,
+      "speed": 1.0,
+      "dur": 12.379999999999999,
+      "start": 86.30000000000001,
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "in": 61.59,
+      "out": 72.41,
+      "speed": 1.0,
+      "dur": 10.819999999999993,
+      "start": 98.68,
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "in": 85.81,
+      "out": 98.19,
+      "speed": 1.0,
+      "dur": 12.379999999999995,
+      "start": 109.3,
+      "transition": "fade"
+    },
+    {
+      "type": "play",
+      "in": 1522.27,
+      "out": 1537.73,
+      "speed": 1.0,
+      "dur": 15.460000000000036,
+      "start": 121.67999999999999,
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "in": 197.59,
+      "out": 208.41,
+      "speed": 1.0,
+      "dur": 10.819999999999993,
+      "start": 137.14000000000004,
+      "transition": "cut"
+    },
+    {
+      "type": "play",
+      "in": 601.81,
+      "out": 614.19,
+      "speed": 1.0,
+      "dur": 12.38000000000011,
+      "start": 147.96000000000004,
+      "transition": "cut"
+    }
+  ],
+  "outro_start": 160.14000000000016,
+  "sfx": [
+    {
+      "t": 0.0,
+      "name": "rewind",
+      "gain": 0.6
+    },
+    {
+      "t": 1.7999999999999887,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 15.71999999999995,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 15.919999999999948,
+      "name": "hit",
+      "gain": 0.9
+    },
+    {
+      "t": 16.41999999999995,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 16.619999999999948,
+      "name": "rewind",
+      "gain": 0.6
+    },
+    {
+      "t": 24.41999999999995,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 36.79999999999994,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 47.61999999999994,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 59.79999999999993,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 73.72000000000001,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 86.10000000000001,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 98.48,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 109.1,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 121.47999999999999,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 136.94000000000005,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 147.76000000000005,
+      "name": "whoosh",
+      "gain": 0.55
+    },
+    {
+      "t": 160.19000000000017,
+      "name": "pop",
+      "gain": 0.8
+    },
+    {
+      "t": 160.74000000000015,
+      "name": "ding",
+      "gain": 0.5
+    }
+  ],
+  "captions": {
+    "caption_sync": "none",
+    "caption_words": 0,
+    "events": 15
+  },
+  "source": "D:\\GTA6_SHORTS\\_source_footage\\cc\\8KivA-3nTYg.mp4",
+  "source_info": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60.0,
+    "duration": 557.000272,
+    "has_audio": true
+  }
+}

@@ -1,0 +1,54 @@
+CLIP 14  |  Group B  |  Style: fact
+Concept: Tank, Heli, Porsche & More: GTA 6 Vehicles in Action 🚗🚁🚤
+Rights status: FLAGGED   |   QA: FLAGGED_NOT_CLEARED_FOR_MONETIZED_PUBLICATION
+NOT PUBLISHED. Nothing in this workflow uploads to YouTube. Publish manually after your review.
+
+TITLE
+  Tank, Heli, Porsche & More: GTA 6 Vehicles in Action 🚗🚁🚤
+
+DESCRIPTION
+  Tank, Heli, Porsche & More: GTA 6 Vehicles in Action 🚗🚁🚤
+
+Gameplay footage used under the Creative Commons Attribution licence (CC BY). Credit:
+- "GTA 6 Gameplay - No Spoilers" by How to Everything: https://www.youtube.com/watch?v=8KivA-3nTYg (licensed CC BY)
+- "GTA 6 - What Happens If You Go On The Cruise Ship" by LunarGaming: https://www.youtube.com/watch?v=OnWC__OxyTk (licensed CC BY)
+- "GTA 6 - Free-Roam Driving Across The Map (No Commentary Gameplay)" by dannyavelas: https://www.youtube.com/watch?v=Wwe1npYjNpw (licensed CC BY)
+- "GTA 6 - What Happens If You Go To The Vercetti Estate Early" by LunarGaming: https://www.youtube.com/watch?v=TPF8W1_mk7I (licensed CC BY)
+- "GTA 6 Gameplay - No Spoilers" by How to Everything: https://www.youtube.com/watch?v=Q8sWvko-g8E (licensed CC BY)
+- "How To Rob BANKS In GTA 6 (IN FREEROAM)" by How to Everything: https://www.youtube.com/watch?v=f5xjnI4NcFo (licensed CC BY)
+- "Trying To Steal A Tank & Jet From The Military Base Gameplay In GTA 6" by LunarGaming: https://www.youtube.com/watch?v=PwhDKUx5lLY (licensed CC BY)
+
+Edited by this channel with original captions, music and effects. Grand Theft Auto VI (c) Rockstar Games / Take-Two Interactive. Not affiliated with Rockstar, Take-Two or the credited creators.
+
+HASHTAGS
+  #GTA6 #GTAVI #Shorts #Vehicles #GTA6Cars #Gaming
+
+OPENING HOOK (first 1-2 s)
+  Every VEHICLE we drove
+
+SUGGESTED THUMBNAIL / COVER FRAME
+  Text: EVERY / [VEHICLE]
+  Idea: Frame from the action peak with bold two-line text.
+  (Shorts covers are picked from a video frame in the YouTube app; thumbnail.jpg is the branded reference.)
+
+SUGGESTED PINNED COMMENT
+  What's the first vehicle you'd steal? 🚗
+
+EDITING PLAN
+  - 0-2.2s cold open: flash-forward of the peak moment under the hook text
+  - Gameplay panel over a blurred, colour-boosted copy of the same shot (keeps the full 16:9 action visible in 9:16)
+  - Story told in short captions, one beat per shot; slow parts trimmed; alternating punch-in zooms
+  - Peak moment: freeze frame + 'A TANK.' label, then 0.5x replay with highlight border
+  - Original synthwave music bed under the game audio; original whoosh/hit/rewind SFX on cuts
+  - Ends on the outro sting for a loop back to the cold open
+
+SOURCE
+  How to Everything (8KivA-3nTYg); LunarGaming (OnWC__OxyTk); dannyavelas (Wwe1npYjNpw); LunarGaming (TPF8W1_mk7I); How to Everything (Q8sWvko-g8E); How to Everything (f5xjnI4NcFo); LunarGaming (PwhDKUx5lLY)
+  Stream range: -   Link: -
+
+FACTS & EVIDENCE
+  (not a fact video)
+
+WHY IT IS NOT CLEARED YET
+  - Monetization rights unconfirmed: Rockstar's video policy grants permission for non-commercial use; ad-revenue use is not explicitly covered. Get written permission from Take-Two (copyright@take2games.com) or publish without monetization.
+  - Third-party audio present (none detected (in-game dialogue/SFX only; no song lyrics found by transcription)): licensed radio music can trigger Content ID claims. Record with in-game radio off or mute those sections.

@@ -1,0 +1,28 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Caption,Poppins,80,&H00FAF7F5,&H000AD6FF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,2,5,60,60,0,1
+Style: Hook,Anton,108,&H00FAF7F5,&H000AD6FF,&H001A0F0B,&H64000000,0,0,0,0,100,100,1,0,1,9,3,8,60,60,0,1
+Style: Label,Anton,84,&H000AD6FF,&H00FAF7F5,&H001A0F0B,&H64000000,0,0,0,0,100,100,2,0,1,7,2,5,60,60,0,1
+Style: Card,Anton,74,&H00FAF7F5,&H000AD6FF,&H18632EFF,&H18632EFF,0,0,0,0,100,100,1,0,3,22,0,5,90,90,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.00,0:00:02.40,Hook,,0,0,0,,{\pos(540,300)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}Robbing a store in {\c&H000AD6FF}GTA 6{\r}
+Dialogue: 2,0:00:02.15,0:00:06.00,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Just a normal corner\Nstore
+Dialogue: 2,0:00:14.15,0:00:18.00,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Browsing... totally\Ninnocent
+Dialogue: 2,0:00:28.15,0:00:32.00,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}OK, not innocent
+Dialogue: 2,0:00:50.85,0:00:54.70,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}To the back room
+Dialogue: 2,0:01:08.85,0:01:12.70,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Where's the cash?
+Dialogue: 2,0:01:22.65,0:01:26.50,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Grab it and go
+Dialogue: 2,0:01:34.65,0:01:38.50,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Getaway ride: found
+Dialogue: 2,0:01:48.65,0:01:52.50,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Full throttle
+Dialogue: 2,0:02:08.65,0:02:12.50,Card,,0,0,0,,{\pos(540,1650)\fad(120,120)}Escaped... to the\Nbeach
+Dialogue: 2,0:00:42.05,0:00:42.90,Label,,0,0,0,,{\pos(540,1180)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}HANDS UP
+Dialogue: 2,0:00:42.75,0:00:44.30,Label,,0,0,0,,{\pos(540,1180)\fscx70\fscy70\t(0,120,\fscx100\fscy100)}REPLAY x0.5

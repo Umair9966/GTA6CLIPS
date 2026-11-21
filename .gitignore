@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+_work/
+_source_footage/
+channel_branding/music/
+*.tmp.mp4
